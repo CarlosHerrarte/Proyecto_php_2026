@@ -13,7 +13,7 @@
 * **Desde el navegador:** Busca el enlace >http://localhost/< y busca el proyecto a ejecutar
 * **Desde VSC:** Descarga un plugin de ejeucador de lenguaje PHP
 * **Desde el sistema:** Descarga algun compilador de lenguaje PHP
-## Autor
+### Autor
 * Carlos H.
 * 26003850@galileo.edu
 * 12345678
